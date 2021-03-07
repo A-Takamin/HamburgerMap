@@ -30,7 +30,8 @@
 
 ## 使用技術
 - [Google Maps Platform API](https://developers.google.com/maps)  
-本PJの要  
+本PJの要
+- [GoogleMapsAPIのリポジトリ（go)](https://github.com/googlemaps/google-maps-services-go)  
 - [Golang](https://golang.org/)  
 Eさんの意志を共に継ぐものとして  
 - [Nuxt.js](https://nuxtjs.org/)  
