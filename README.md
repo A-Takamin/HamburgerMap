@@ -32,7 +32,7 @@
 - [Google Maps Platform API](https://developers.google.com/maps)  
 本PJの要  
 - [Golang](https://golang.org/)  
-Eさんの意志を継ぐ者として  
+Eさんの意志を共に継ぐものとして  
 - [Nuxt.js](https://nuxtjs.org/)  
 Vue触ってるし、、？  
 - [AWS系]  
