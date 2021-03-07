@@ -1,2 +1,4 @@
-# HamburgerMap
-Tokyo Hamburger Map by Hamburger Unit
+# 東京ハンバーガーMap
+東京にあるハンバーガー（グルメバーガーのみ）をマップ化するプロジェクト
+
+## 要求・要件
