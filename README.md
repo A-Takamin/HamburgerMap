@@ -29,3 +29,11 @@
 
 
 ## 使用技術
+[Google Map API](https://developers.google.com/maps)
+本PJの要
+[Golang](https://golang.org/)
+Eさんの意志を継ぐ者として
+[Nuxt.js](https://nuxtjs.org/)
+Vue触ってるし、、？
+[AWS系]
+費用がかかるので要検討だが、Wさんの意志を継ぐものとして
