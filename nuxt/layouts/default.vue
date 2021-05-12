@@ -1,6 +1,7 @@
 <template>
   <div>
     <Nuxt />
+    <footer>dd</footer>
   </div>
 </template>
 
